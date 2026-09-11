@@ -1,5 +1,3 @@
-package state;
-
 /**
  * Stores all grade states and delegates vocabulary actions to the current
  * state. This is the context class in the State design pattern.

@@ -1,5 +1,3 @@
-package state;
-
 /** Represents the third-grade vocabulary level. */
 public class ThirdGradeState extends State {
     /**
